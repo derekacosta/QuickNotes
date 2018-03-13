@@ -57,7 +57,21 @@ is my set up
 * and change directory to advanced configuration and set it to wherever your file is located. 
 
 Now that is completed go to keys tab and add a new key. 
-I have mine set to 
+I have my keyboard shortcut set to ⌘s (command s) and change the action to "Send Text with "vim" Special Chars" to which I have added 
+
+```
+:wa | !gdrive sync upload . DIRECTORY_NAME
+```
+
+From there in the Key tab check on the Hotkey window and Configure Hotkey window and now you can adjust it to whatever you amy like. 
+
+Play around with the windows option to customize it to your liking. 
+
+
+
+And you're done! 
+
+All you need to do now is 
 
 
 ```
