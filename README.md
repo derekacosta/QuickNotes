@@ -1,4 +1,4 @@
-# QuickNotes
+# QuickNotes Mac workflow
 
 How I take notes
 
