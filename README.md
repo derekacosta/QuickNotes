@@ -75,7 +75,7 @@ Play around with the windows option to customize it to your liking.
 
 And you're done! 
 
-[![](https://github.com/derekacosta/QuickNotes/raw/master/Screen%20Shot%202018-03-13%20at%2011.40.06%20PM.jpg)](https://www.youtube.com/watch?v=C4GSWgluf1I)
+[![https://www.youtube.com/watch?v=C4GSWgluf1I](https://github.com/derekacosta/QuickNotes/raw/master/Screen%20Shot%202018-03-13%20at%2011.40.06%20PM.jpg)](https://www.youtube.com/watch?v=C4GSWgluf1I)
 
 ## Authors
 
