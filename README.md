@@ -53,8 +53,9 @@ How I like to proceed is buying adding a new profile and adding these options:
 ```
 nvim Friendship.md
 ```
-is my set up 
 * and change directory to advanced configuration and set it to wherever your file is located. 
+
+![](https://github.com/derekacosta/QuickNotes/blob/master/Screen%20Shot%202018-03-13%20at%206.26.50%20PM.jpg)
 
 Now that is completed go to keys tab and add a new key. 
 I have my keyboard shortcut set to ⌘s (command s) and change the action to "Send Text with "vim" Special Chars" to which I have added 
@@ -62,81 +63,20 @@ I have my keyboard shortcut set to ⌘s (command s) and change the action to "Se
 ```
 :wa | !gdrive sync upload . DIRECTORY_NAME
 ```
+![](https://github.com/derekacosta/QuickNotes/raw/master/Screen%20Shot%202018-03-13%20at%206.26.20%20PM.jpg)
 
 From there in the Key tab check on the Hotkey window and Configure Hotkey window and now you can adjust it to whatever you amy like. 
 
+![](https://github.com/derekacosta/QuickNotes/raw/master/Screen%20Shot%202018-03-13%20at%206.26.07%20PM.jpg)
+
 Play around with the windows option to customize it to your liking. 
 
-
+![](https://github.com/derekacosta/QuickNotes/raw/master/Screen%20Shot%202018-03-13%20at%206.26.32%20PM.jpg)
 
 And you're done! 
 
-All you need to do now is 
-
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+[![](https://github.com/derekacosta/QuickNotes/raw/master/Screen%20Shot%202018-03-13%20at%2011.40.06%20PM.jpg)](https://www.youtube.com/watch?v=C4GSWgluf1I)
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
-
+* **Derek Acosta** - *Initial work* - [](https://github.com/Derek Acosta)
