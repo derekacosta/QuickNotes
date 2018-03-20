@@ -85,4 +85,4 @@ https://www.youtube.com/watch?v=C4GSWgluf1I
 
 ## Authors
 
-* **Derek Acosta** - *Initial work* - [](https://github.com/Derek Acosta)
+[**Derek Acosta**](https://github.com/derekacosta)
